@@ -1,0 +1,5 @@
+$fb = new Facebook\Facebook([
+  'app_id' => '466329053569978',
+  'app_secret' => 'b63631b06da6b3f576d516ce5be485f7',
+  'default_graph_version' => 'v2.2',
+  ]);
